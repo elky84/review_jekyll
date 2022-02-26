@@ -1,23 +1,21 @@
-title: Jekyll 8bit
-description: A Jekyll theme inspired by classic 8bit games.
-theme: jekyll-theme-8bit
+title: Elky Review
+description: 게임, IT 기기, 피규어 등 다양한 제품을 리뷰하는 블로그입니다.
 logo: nes-kirby
-show_downloads: true
 plugins:
  - jekyll-paginate
  - jekyll-seo-tag
-paginate: 2
+paginate: 5
 social:
-  twitter: https://twitter.com/username
-  facebook: https://facebook.com/username
-  github: https://github.com/username
-  youtube: https://youtube.com/channel/ID
-  google: https://plus.google.com/username
-  medium: https://medium.com/@username
-  twitch: https://twitch.com/username
-  reddit: https://www.reddit.com/user/username
-  whatsapp: tel:+5541999999999
-  gmail: mailto:username@domain.net
-  linkedin: https://www.linkedin.com/in/username
+  twitter: https://twitter.com/elky84
+  facebook: https://facebook.com/elky1984
+  github: https://github.com/elky84
+  gmail: mailto:elky84@gmail.com
+  # youtube: https://youtube.com/channel/ID
+  # google: https://plus.google.com/username
+  # medium: https://medium.com/@username
+  # twitch: https://twitch.com/username
+  # reddit: https://www.reddit.com/user/username
+  # whatsapp: tel:+5541999999999
+  # linkedin: https://www.linkedin.com/in/username
 disqus:
   shortname: jekyll-theme-8bit
