@@ -4,7 +4,7 @@ logo: nes-kirby
 plugins:
  - jekyll-paginate
  - jekyll-seo-tag
-paginate: 5
+
 social:
   twitter: https://twitter.com/elky84
   facebook: https://facebook.com/elky1984
@@ -19,3 +19,9 @@ social:
   # linkedin: https://www.linkedin.com/in/username
 disqus:
   shortname: elky
+
+google_analytics: G-N76D2R0XPR
+baseurl: /review
+
+permalink: /:year/:title
+paginate: 10
