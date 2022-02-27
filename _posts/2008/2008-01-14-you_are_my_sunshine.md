@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 너는 내 운명
+rating: ★★★★
 description: You are my sunshine
-categories: [영화, 인디, 음악영화]
-tags: [Once, 원스]
+categories: [영화, 멜로]
+tags: [너는 내 운명, You are my sunshine, 전도연, 황정민]
 ---
 
 ![You are my sunshine](../../images/2008/you_are_my_sunshine.jpg)

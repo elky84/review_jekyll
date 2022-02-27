@@ -5,7 +5,8 @@ comments: true
 
 <small class="post-info">{{ page.date | date: "%B %-d, %Y" }}</small>
 <h1>{{ page.title }}</h1>
-<h3 class="post-info">{{ page.description }}</h3>
+<p class="post-info">{{ page.description }}</p>
+<h3 class="post-info">{{ page.rating }}</h3>
 <small class="post-info">by {{ page.author | default: site.author }}</small>
 {{ content }}
 {% if page.tags %}
