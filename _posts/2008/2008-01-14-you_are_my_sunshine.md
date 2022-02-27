@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 너는 내 운명
-author: 엘키
+description: You are my sunshine
 categories: [영화, 인디, 음악영화]
 tags: [Once, 원스]
 ---

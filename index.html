@@ -5,6 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 <div>
   <small class="post-info">{{ post.date | date: "%B %-d, %Y" }}</small>
+  {{ post.description }}
   <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
   <small class="post-info">by {{ post.author | default: site.author }}</small>
   <a href="{{ post.url | relative_url }}">[ Read ]</a>

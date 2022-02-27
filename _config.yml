@@ -26,3 +26,4 @@ baseurl: /review
 
 permalink: /:year/:title/
 paginate: 10
+author: 엘키
