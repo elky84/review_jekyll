@@ -23,5 +23,5 @@ disqus:
 google_analytics: G-N76D2R0XPR
 baseurl: /review
 
-permalink: /:year/:title
+permalink: /:year/:title/
 paginate: 10
