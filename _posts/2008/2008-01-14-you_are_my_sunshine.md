@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 너는 내 운명
-rating: ★★★★
+rating: ⭐️⭐️⭐️⭐️
 description: You are my sunshine
 categories: [영화, 멜로]
 tags: [너는 내 운명, You are my sunshine, 전도연, 황정민]
