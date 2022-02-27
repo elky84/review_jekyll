@@ -1,13 +1,6 @@
 @font-face {
-  font-family: 'Press Start 2P';
+  font-family: 'DOSGothic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/DOSGothic.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-  src: url('../fonts/Press-Start-2P/regular.woff2') format('woff2'),
-       url('../fonts/Press-Start-2P/regular.woff') format('woff'),
-       url('../fonts/Press-Start-2P/regular.ttf') format('ttf')
-}
-
-@font-face {
-  font-family: "DOSGothic";
-  src: url('../fonts/dos/DOSGothic.ttf') format('ttf')
 }
