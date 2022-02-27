@@ -15,6 +15,7 @@ title: 'Tag Index'
 {%- for tag in tags_list -%}
     <a href="#{{- tag -}}" class="nes-btn is-warning">&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
+<br/>
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
@@ -31,5 +32,6 @@ title: 'Tag Index'
             </div>
         {%- endfor -%}
     </div>
+    <br/>
 {%- endfor -%}
 </div>

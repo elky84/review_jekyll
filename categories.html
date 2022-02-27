@@ -15,6 +15,7 @@ title: 'Category Index'
 {%- for category in categories_list -%}
     <a href="#{{- category -}}" class="nes-btn is-warning">&nbsp;{{- category -}}&nbsp;({{site.categories[category].size}})</a>
 {%- endfor -%}
+<br/>
 
 <div id="full-categories-list">
 {%- for category in categories_list -%}
@@ -31,5 +32,6 @@ title: 'Category Index'
             </div>
         {%- endfor -%}
     </div>
+    <br/>
 {%- endfor -%}
 </div>
