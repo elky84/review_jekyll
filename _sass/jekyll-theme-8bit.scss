@@ -176,6 +176,10 @@ footer {
   align-self: flex-end;
 }
 
+.nes-btn {
+  border-image-repeat: stretch;
+}
+
 .nes-btn.is-warning {
   margin: 5px;
 }
