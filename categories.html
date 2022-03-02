@@ -13,7 +13,7 @@ title: 'Category Index'
 {%- assign categories_list = site_categories | split:',' | sort -%}
 
 {%- for category in categories_list -%}
-    <a href="#{{- category -}}" class="nes-btn is-warning">{{- category -}}&nbsp;({{site.categories[category].size}})</a>&nbsp;
+    <a href="#{{- category -}}" class="nes-badge"><span class="is-warning">{{- category -}}&nbsp;({{site.categories[category].size}})</span></a>&nbsp;
 {%- endfor -%}
 <br/>
 
