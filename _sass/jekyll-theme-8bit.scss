@@ -2,7 +2,6 @@
 @import 'rouge-github';
 
 body {
-  background-color: #fff;
   font: 14px/1.5 'Noto Sans', Helvetica, 'DOSGothic', sans-serif;
   color: #212529;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -181,30 +180,9 @@ footer {
   margin: 5px;
 }
 
-.nes-btn.is-warning::after {
-  box-shadow: inset -4px -4px #fdff73;
-}
-.nes-btn.is-warning:hover {
-  background-color: rgb(248, 226, 26);
-}
-.nes-btn.is-warning:hover::after {
-  box-shadow: inset -6px -6px #ffee00;
-}
-
 .nes-btn.is-success {
   margin: 5px;
 }
-
-.nes-btn.is-success::after {
-  box-shadow: inset -4px -4px #00781e;
-}
-.nes-btn.is-success:hover {
-  background-color: #5adb57;
-}
-.nes-btn.is-success:hover::after {
-  box-shadow: inset -6px -6px #01b801;
-}
-
 
 .nes-container.downloads {
   font-family: 'DOSGothic', Helvetica, sans-serif;
@@ -215,6 +193,7 @@ footer {
 .nes-btn.is-file {
   color: #fafafa;
   background-color: #01b801;
+  margin: 5px;
 }
 .nes-btn.is-file::after {
   box-shadow: inset -4px -4px #007800;
