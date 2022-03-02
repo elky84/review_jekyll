@@ -10,14 +10,14 @@ comments: true
 <small class="post-info">by {{ page.author | default: site.author }}</small>
 {{ content }}
 {% if page.tags %}
-<small class="post-info">Tags: 
+<h3 class="post-info">Tags:  
 {%- for tag in page.tags -%}
   <a href="{{site.baseurl}}/tags/#{{- tag -}}" class="nes-badge"><span class="is-warning">{{- tag -}}</span></a>&nbsp;
 {%- endfor -%}
 <br/>
 {% endif %}
 {% if page.categories %}
-<small class="post-info">Categories: 
+<h3 class="post-info">Categories: 
 {%- for category in page.categories -%}
     <a href="{{site.baseurl}}/categories/#{{- category -}}" class="nes-badge"><span class="is-success">{{- category -}}</span></a>&nbsp;
 {%- endfor -%}
