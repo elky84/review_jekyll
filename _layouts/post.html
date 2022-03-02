@@ -12,14 +12,14 @@ comments: true
 {% if page.tags %}
 <h3 class="post-info">Tags:  
 {%- for tag in page.tags -%}
-  <a href="{{site.baseurl}}/tags/#{{- tag -}}" class="nes-badge"><span class="is-warning">{{- tag -}}</span></a>&nbsp;
+  <a href="{{site.baseurl}}/tags/#{{- tag -}}" class="nes-btn is-warning">{{- tag -}}</a>&nbsp;
 {%- endfor -%}
 <br/>
 {% endif %}
 {% if page.categories %}
 <h3 class="post-info">Categories: 
 {%- for category in page.categories -%}
-    <a href="{{site.baseurl}}/categories/#{{- category -}}" class="nes-badge"><span class="is-success">{{- category -}}</span></a>&nbsp;
+    <a href="{{site.baseurl}}/categories/#{{- category -}}" class="nes-btn is-success">{{- category -}}</a>&nbsp;
 {%- endfor -%}
 {% endif %}
 {% if site.disqus.shortname %}

@@ -13,7 +13,7 @@ title: 'Tag Index'
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
 {%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="nes-badge"><span class="is-warning">{{- tag -}}&nbsp;({{site.tags[tag].size}})</span></a>&nbsp;
+    <a href="#{{- tag -}}" class="nes-btn is-warning">{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>&nbsp;
 {%- endfor -%}
 <br/>
 
