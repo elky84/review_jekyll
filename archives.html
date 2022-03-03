@@ -1,0 +1,19 @@
+---
+layout: page
+title: 'Archives Index'
+---
+<div class="home">
+  <h1 class="page-heading">Blog Archives</h1>
+  <ul class="post-archives">
+    {% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%Y" %}
+    {% if currentdate != date %}
+      <li id="y{{currentdate}}">{{ currentdate }}</li>
+      {% assign date = currentdate %} 
+    {% endif %}
+    <h2>
+      <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
+      <small class="post-info">{{ post.date | date: "%B %-d, %Y" }}</small>
+    </h2>
+    {% endfor %}
+</div>
