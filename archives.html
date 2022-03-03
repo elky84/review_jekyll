@@ -8,7 +8,7 @@ title: 'Archives Index'
     {{- post.date | date: "%Y" -}}{%- unless forloop.last -%},{%- endunless -%}
   {% endfor %}
 {%- endcapture -%}
-{%- assign date_list = site_dates | split:',' | sort -%}
+{%- assign date_list = site_dates | split:',' | sort | reverse -%}
 
 {%- for date in date_list -%}
   {% if currentdate != date %}
