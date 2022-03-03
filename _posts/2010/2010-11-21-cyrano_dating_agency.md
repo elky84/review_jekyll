@@ -3,7 +3,7 @@ layout: post
 title: 시라노 연애 조작단
 rating: ⭐️⭐️⭐️⭐️☆
 description: 제목부터 흥미로운 연애 조작단?!?
-categories: [영화, 추리]
+categories: [영화, 로맨틱 코미디]
 tags: [시라노 연애 조작단, 엄태웅, 이민정, 박신혜, 최다니엘]
 ---
 
