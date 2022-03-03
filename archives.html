@@ -2,18 +2,32 @@
 layout: page
 title: 'Archives Index'
 ---
-<div class="home">
-  <h1 class="page-heading">Blog Archives</h1>
-  <ul class="post-archives">
-    {% for post in site.posts %}
-    {% assign currentdate = post.date | date: "%Y" %}
-    {% if currentdate != date %}
-      <li id="y{{currentdate}}">{{ currentdate }}</li>
-      {% assign date = currentdate %} 
-    {% endif %}
-    <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
-      <small class="post-info">{{ post.date | date: "%B %-d, %Y" }}</small>
-    </h2>
-    {% endfor %}
+
+{%- capture site_dates -%}
+  {% for post in site.posts %}
+    {{- post.date | date: "%Y" -}}{%- unless forloop.last -%},{%- endunless -%}
+  {% endfor %}
+{%- endcapture -%}
+{%- assign date_list = site_dates | split:',' | sort -%}
+
+{%- for date in date_list -%}
+  {% if currentdate != date %}
+    <a href="#{{- date -}}" class="nes-btn is-error" style="margin: 7px">{{- date -}}</a>&nbsp;
+    {% assign currentdate = date %} 
+  {% endif %}
+{%- endfor -%}
+<br/>
+
+<div id="full-archive-list">
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <h2 id="{{- currentdate -}}" class="linked-section">{{- currentdate -}}</h2>
+    {% assign date = currentdate %} 
+  {% endif %}
+  <h2>
+    <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
+    <small class="post-info">{{ post.date | date: "%B %-d, %Y" }}</small>
+  </h2>
+{% endfor %}
 </div>
