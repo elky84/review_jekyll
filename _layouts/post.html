@@ -8,16 +8,18 @@ comments: true
 <p class="post-info">{{ page.description }}</p>
 <h3 class="post-info">{{ page.rating }}</h3>
 <small class="post-info">by {{ page.author | default: site.author }}</small>
+<hr>
 {% if page.youtube %}
   {% include youtube.html id=page.youtube %}
+  <hr>
 {% endif %}
 {{ content }}
+<hr>
 {% if page.tags %}
 <h3 class="post-info">Tags:  
 {%- for tag in page.tags -%}
   <a href="{{site.baseurl}}/tags/#{{- tag -}}" class="nes-btn is-warning" style="font-size: 9px">{{- tag -}}</a>&nbsp;
 {%- endfor -%}
-<br/>
 {% endif %}
 {% if page.categories %}
 <h3 class="post-info">Categories: 
@@ -25,6 +27,7 @@ comments: true
   <a href="{{site.baseurl}}/categories/#{{- category -}}" class="nes-btn is-success" style="font-size: 9px">{{- category -}}</a>&nbsp;
 {%- endfor -%}
 {% endif %}
+<hr>
 {% if site.disqus.shortname %}
   {% include comments.html %}
 {% endif %}
