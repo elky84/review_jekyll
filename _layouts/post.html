@@ -8,6 +8,9 @@ comments: true
 <p class="post-info">{{ page.description }}</p>
 <h3 class="post-info">{{ page.rating }}</h3>
 <small class="post-info">by {{ page.author | default: site.author }}</small>
+{% if page.youtube %}
+  {% include youtube.html id=page.youtube %}
+{% endif %}
 {{ content }}
 {% if page.tags %}
 <h3 class="post-info">Tags:  
