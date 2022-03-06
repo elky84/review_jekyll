@@ -4,7 +4,7 @@ title: 하이퍼 올림픽
 rating: ⭐️⭐️⭐️⭐️
 description: 누가 뭐래도 88 올림픽이라 읽는다
 categories: [추억의 게임]
-tags: [추억의 게임, 1989, 코나미, 아케이드]
+tags: [추억의 게임, 1989년, 코나미, 아케이드]
 ---
 
 ![hyper_olympic_01](../../images/2002/hyper_olympic_01.jpg)

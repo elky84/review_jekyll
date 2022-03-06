@@ -4,7 +4,7 @@ title: 스트리트 파이터 4
 rating: ⭐️⭐️⭐️⭐️⭐️
 description: 다시 돌아온 격투 게임계의 아버지
 categories: [게임, 대전 액션]
-tags: [스트리트 파이터4, 스트리트 파이터, PS3]
+tags: [스트리트 파이터, PS3]
 ---
 
 ![sf4](../../images/2009/sf4_01.jpg)
