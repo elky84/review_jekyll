@@ -1,14 +1,29 @@
 @import 'fonts';
 @import 'rouge-github';
 
+.youtube-wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 body {
-  font: 14px/1.5 'Noto Sans', Helvetica, 'DOSGothic', sans-serif;
+  font: 14px/1.5 'DOSGothic', sans-serif;
   color: #212529;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'DOSGothic', Helvetica, sans-serif;
+  font-family: 'DOSGothic', sans-serif;
   font-weight: 400;
   margin: 0 0 1px;
 }
