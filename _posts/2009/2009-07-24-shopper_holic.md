@@ -4,7 +4,7 @@ title: 쇼퍼홀릭
 rating: ⭐️⭐️⭐️☆
 description: 님아 너무 지르지 마요
 categories: [영화, 코미디, 로맨틱 코미디]
-tags: [Shopper Holic, 쇼퍼홀릭]
+tags: [쇼퍼홀릭]
 ---
 
 ![쇼퍼홀릭](../../images/2009/shopper_holic.jpg)

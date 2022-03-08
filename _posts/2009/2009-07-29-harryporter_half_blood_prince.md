@@ -4,7 +4,7 @@ title: 해리포터 혼혈왕자
 rating: ⭐️⭐️⭐️☆
 description: 아... 나쁘진 않은데...
 categories: [영화, 어드벤쳐, 판타지]
-tags: [해리포터, 해리포터 혼혈왕자]
+tags: [해리포터]
 ---
 
 ![해리포터 혼혈왕자](../../images/2009/harryporter_half_blood_prince.jpg)

@@ -4,7 +4,7 @@ title: 삼총사
 rating: ⭐️⭐️⭐️⭐️
 description: 처음 본 뮤지컬
 categories: [뮤지컬, 시대극, 어드벤쳐]
-tags: [삼총사, Three Musketeers]
+tags: [삼총사, 신성우, 박건형]
 ---
 
 ![삼총사](../../images/2009/three_musketeers.jpg)

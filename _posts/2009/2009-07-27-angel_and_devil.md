@@ -4,7 +4,7 @@ title: 천사와 악마
 rating: ⭐️⭐️⭐️☆
 description: 님아 너무 지르지 마요
 categories: [영화, 종교, 미스터리]
-tags: [천사와 악마, Angel & Devil]
+tags: [천사와 악마, 톰 행크스]
 ---
 
 ![천사와 악마](../../images/2009/angel_and_devil.jpg)

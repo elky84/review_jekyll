@@ -4,7 +4,7 @@ title: 드래그 미 투 헬
 rating: ⭐️⭐️⭐️☆
 description: B급 감성의 나쁘지 않은 공포 영화
 categories: [영화, 공포]
-tags: [드래그 미 투 헬, Drag Me To Hell]
+tags: [드래그 미 투 헬, 샘 레이미]
 ---
 
 ![드래그 미 투 헬](../../images/2009/drag_me_to_hell.jpg)

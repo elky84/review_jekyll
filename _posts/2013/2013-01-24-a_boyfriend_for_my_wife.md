@@ -4,7 +4,7 @@ title: 내 아내의 모든 것
 rating: ⭐️⭐️⭐️⭐️
 description: 나만 모를 지도 모르는 아내의 매력
 categories: [영화, 로맨틱 코미디]
-tags: [내 아내의 모든 것]
+tags: [내 아내의 모든 것, 임수정, 류승룡, 이선균]
 ---
 
 ![내 아내의 모든 것](../../images/2013/a_boyfriend_for_my_wife.jpg)

@@ -4,7 +4,7 @@ title: 그는 당신에게 반하지 않았다
 rating: ⭐️⭐️⭐️⭐️
 description: 그가 당신에게 반한다면 뭐든지 할 것이다
 categories: [영화, 로맨틱 코미디]
-tags: [그는 당신에게 반하지 않았다]
+tags: [그는 당신에게 반하지 않았다, 벤 애플렉, 제니퍼 애니스톤, 저스틴 롱, 스칼렛 요한슨]
 ---
 
 ![그는 당신에게 반하지 않았다](../../images/2013/he_is_just_not_that_into_you.jpg)

@@ -4,7 +4,7 @@ title: 킬러들의 도시
 rating: ⭐️⭐️⭐️⭐️
 description: 포스터나 영화 제목과는 달랐지만, 잘 짜여진 극본의 힘 
 categories: [영화, 블랙 코미디]
-tags: [킬러들의 도시, 브뤼헤, Bruges, In Bruges]
+tags: [킬러들의 도시, In Bruges]
 ---
 
 ![킬러들의 도시](../../images/2009/city_of_killer.jpg)
