@@ -4,7 +4,7 @@ title: 트랜스포머 - 패자의역습
 rating: ⭐️⭐️⭐️☆
 description: 메카물의 완성. 눈이 즐겁다.
 categories: [영화, 액션, 메카]
-tags: [트랜스포머, Transformer]
+tags: [트랜스포머]
 ---
 
 ![트랜스포머](../../images/2009/transformer2.jpg)

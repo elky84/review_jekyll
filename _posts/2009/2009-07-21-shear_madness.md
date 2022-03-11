@@ -4,7 +4,7 @@ title: 쉬어 매드니스
 rating: ⭐️⭐️⭐️⭐️⭐️
 description: 범인을 찾아라
 categories: [연극, 추리]
-tags: [쉬어 매드니스, Shear Madness]
+tags: [쉬어 매드니스]
 ---
 
 ![쉬어 매드니스](../../images/2009/shear_madness.jpg)
