@@ -7,8 +7,8 @@ categories: [게임, 레이싱]
 tags: [번아웃 파라다이스, 번아웃, PS3, EA, 크라이테리언 게임즈]
 ---
 
-![bp](../../images/2009/burnout_paradise_01.jpeg)
-![bp](../../images/2009/burnout_paradise_02.jpeg)
+![bp](../../images/2009/burnout_paradise_01.jpg)
+![bp](../../images/2009/burnout_paradise_02.jpg)
 
 번아웃 시리즈는 3편인 테이크 다운부터 즐겼다. 엑스박스 버전을 즐겼는데, 친구랑 아주 재밌게 놀 수 있었던 타이틀이었다. 가장 신나게 즐겼던건 XBOX360 초창기에 발매된 번아웃 리벤지였다.
 
