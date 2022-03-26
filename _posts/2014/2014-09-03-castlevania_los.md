@@ -1,3 +1,12 @@
+---
+layout: post
+title: 캐슬베니아 - 로드 오브 쉐도우
+rating: ⭐️⭐️⭐️⭐️
+description: 3D 악마성 중엔 그래도 괜찮다
+categories: [게임, 액션]
+tags: [PC, 코나미, 캐슬베니아]
+---
+
 2D 악마성에 익숙한 많은 게이머들이, 3D 악마성을 인정하지 않는다지만…
 
 완다와 거상이나 갓 오브 워를 연상 시키는 액션성과 퍼즐은 나쁘지 않은 게임임을 말해준다.
@@ -10,14 +19,12 @@
 
 나의 악마성은 이런게 아냐! 정도가 아니라면, 분명히 할만한 3D 액션 게임임에는 분명한 작품.
 
-평점 : ★★★★
+![CV](../../images/2014/castlevania_los_00.jpg)
 
-![](./0.jpg)
+![CV](../../images/2014/castlevania_los_01.jpg)
 
-![](./1.jpg)
+![CV](../../images/2014/castlevania_los_02.jpg)
 
-![](./2.jpg)
+![CV](../../images/2014/castlevania_los_03.jpg)
 
-![](./3.jpg)
-
-![](./4.jpg)
+![CV](../../images/2014/castlevania_los_04.jpg)

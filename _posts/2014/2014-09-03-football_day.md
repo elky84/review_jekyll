@@ -1,4 +1,13 @@
-![](./0.jpg)
+---
+layout: post
+title: 풋볼데이
+rating: ⭐️⭐️⭐️⭐️
+description: 프로야구 매니저의 축구 버전?
+categories: [게임, 축구, 스포츠]
+tags: [PC, 온라인, NHN]
+---
+
+![FD](../../images/2014/football_day_00.jpg)
 
 웹 게임으로써 갖는 접근성이 우선 강점인 축구 시뮬레이션 게임이다.
 
@@ -30,36 +39,34 @@
 
 주로 아쉬운 점 얘기를 많이 했는데… 그럼에도 가볍게 즐길 축구 시뮬레이션 게임으로 적절한 것은 사실.
 
-평점 : ★★★★
+![FD](../../images/2014/football_day_01.png)
 
-![](./1.png)
+![FD](../../images/2014/football_day_02.png)
 
-![](./2.png)
+![FD](../../images/2014/football_day_03.png)
 
-![](./3.png)
+![FD](../../images/2014/football_day_04.png)
 
-![](./4.png)
+![FD](../../images/2014/football_day_05.png)
 
-![](./5.png)
+![FD](../../images/2014/football_day_06.png)
 
-![](./6.png)
+![FD](../../images/2014/football_day_07.png)
 
-![](./7.png)
+![FD](../../images/2014/football_day_08.png)
 
-![](./8.png)
+![FD](../../images/2014/football_day_09.png)
 
-![](./9.png)
+![FD](../../images/2014/football_day_010.png)
 
-![](./10.png)
+![FD](../../images/2014/football_day_011.png)
 
-![](./11.png)
+![FD](../../images/2014/football_day_012.png)
 
-![](./12.png)
+![FD](../../images/2014/football_day_013.png)
 
-![](./13.png)
+![FD](../../images/2014/football_day_014.png)
 
-![](./14.png)
+![FD](../../images/2014/football_day_015.png)
 
-![](./15.png)
-
-![](./16.png)
+![FD](../../images/2014/football_day_016.png)

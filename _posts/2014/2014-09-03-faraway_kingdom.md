@@ -1,3 +1,12 @@
+---
+layout: post
+title: 머나먼 왕국
+rating: ⭐️⭐️⭐️
+description: 장르 믹스가 가져다 준 재미. 하지만...
+categories: [게임, RPG]
+tags: [Mobile, 머나먼 왕국]
+---
+
 도트 디자인이 눈에 띄는 게임.
 
 전투와 팜류를 적당히 잘 녹였다는 점에서 COC처럼 할만한 모바일 게임이었음.
@@ -12,12 +21,10 @@
 
 그리고 일정 수준 이상의 플레이는 사실상 카드 성장의 재미밖에 없어지는 단조로운 게임성도 문제다.
 
-평점 : ★★★
+![FK](../../images/2014/faraway_kingdom_00.jpg)
 
-![](./0.jpg)
+![FK](../../images/2014/faraway_kingdom_01.jpg)
 
-![](./1.jpg)
+![FK](../../images/2014/faraway_kingdom_02.jpg)
 
-![](./2.png)
-
-![](./3.jpg)
+![FK](../../images/2014/faraway_kingdom_03.jpg)
