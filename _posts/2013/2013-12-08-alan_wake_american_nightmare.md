@@ -1,4 +1,13 @@
-![](./0.jpg)
+---
+layout: post
+title: 시노비
+rating: ⭐️⭐️⭐️☆
+description: 스피드한데, 호쾌한데 그렇게 플레이하면 잘 죽지롱
+categories: [게임, 액션]
+tags: [PS2, 시노비, 세가]
+---
+
+![앨런웨이크](../../images/2013/alan_wake_american_nightmare.jpg)
 
 원작과 같은 제작사에서 만든 것 맞나?
 

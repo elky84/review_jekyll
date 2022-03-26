@@ -1,4 +1,13 @@
-![](./0.jpg)
+---
+layout: post
+title: 이브 온라인
+rating: ⭐️⭐️⭐️☆
+description: 정글이라 표현하려했는데, 우주는 당연히(?) 더 무법지대인게 당연하겠지?
+categories: [게임, 우주, MMORPG]
+tags: [PC, 온라인, 이브 온라인, CCP Games]
+---
+
+![EVE Online](../../images/2013/eve_online.jpg)
 
 친구의 꼬드김에 넘어가 시작한 SF 온라인 게임.
 
@@ -16,6 +25,4 @@
 
 하지만 흡입력이 있는 편은 아니었음.
 
-Mining Barge 까진 탔으니… 그걸로 만족하는 걸로~
-
-평점 : ★★★☆
+Mining Barge 까진 탔으니… 그걸로 만족하는 걸로~!

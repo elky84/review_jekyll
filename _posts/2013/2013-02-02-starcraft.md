@@ -1,3 +1,12 @@
+---
+layout: post
+title: 스타크래프트
+rating: ⭐️⭐️⭐️⭐️⭐️
+description: 1편과 달라진 게임성, 아쉬운 가시성, 그럼에도 잘 만든 시나리오 모드
+categories: [게임, 전략, 시뮬레이션]
+tags: [PC, 블리자드, 스타크래프트]
+---
+
 미친듯이 했던 몇안되는 게임 중 하나. 대학생때 심심하면 당구장, 호프, 또 PC방을 갔는데 그 중 PC방에서 단골 게임이었다.
 
 대학 축제때도 심심치 않게 대회가 열리곤 했고, 밥값 내기 술값 내기로 자주 즐기곤했다.
@@ -26,22 +35,20 @@
 
 너무 단점 지적을 안했는데... 역사의 큰 한획을 그었고, 그 역사가 오랫동안 큰 밸런스 패치 없이 있을 수 있었단 점만으로도 그 가치를 인정해야 되므로... 칭찬으로 끝까지 마무리 하련다.
 
-평점 : ★★★★★
+![SC](../../images/2013/starcraft_00.jpg)
 
-![](./0.jpg)
+![SC](../../images/2013/starcraft_01.jpg)
 
-![](./1.jpg)
+![SC](../../images/2013/starcraft_02.jpg)
 
-![](./2.jpg)
+![SC](../../images/2013/starcraft_03.jpg)
 
-![](./3.jpg)
+![SC](../../images/2013/starcraft_04.jpg)
 
-![](./4.jpg)
+![SC](../../images/2013/starcraft_05.jpg)
 
-![](./5.jpg)
+![SC](../../images/2013/starcraft_06.jpg)
 
-![](./6.jpg)
+![SC](../../images/2013/starcraft_07.jpg)
 
-![](./7.jpg)
-
-![](./8.jpg)
+![SC](../../images/2013/starcraft_08.jpg)
