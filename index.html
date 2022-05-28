@@ -22,8 +22,11 @@ layout: default
     {% endif %}
   {% endfor %}
 
+  <br/>
   {{ post.description }}
-  <a href="{{ post.url | relative_url }}">[ Read ]</a>
+  <br/>
+
+  <a href="{{ post.url | relative_url }}">[ ...More ]</a>
 </div>
 <br />
 {% endfor %}
