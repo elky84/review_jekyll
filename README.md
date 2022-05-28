@@ -14,7 +14,7 @@
 
 # Elky Review - 리뷰 블로그
 * jekyll로 작성된 블로그 포킹해서 운용중입니다.
-* 테마는 [jekyll-theme-8bit] (https://github.com/julianolf/jekyll-theme-8bit)을 사용했습니다
+* 테마는 [jekyll-theme-8bit] (https://github.com/julianolf/jekyll-theme-8bit) 를 사용했습니다
 * 이모지는 [emoji](https://gist.github.com/rxaviers/7360908)를 참고
 * 폰트는 Press Start 2P가 한글이 어색해서 [DosGothic](https://noonnu.cc/font_page/239)으로 변경
 
