@@ -16,7 +16,11 @@ layout: default
 
         {% if foundImage == 0 %}
             {% assign html = image | split:"/>" | first | replace:'../','' %}
-            <img {{ html }} />
+
+            <a href="{{ post.url | relative_url }}">
+              <img {{ html }} />
+            </a>
+            
             {% assign foundImage = 1 %}
         {% endif %}
     {% endif %}
