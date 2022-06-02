@@ -15,8 +15,12 @@ layout: default
     {% if image contains 'src' %}
 
         {% if foundImage == 0 %}
-            {% assign html = image | split:"/>" | first | replace:'../','' %}
-
+            {% if paginator.previous_page %}
+              {% assign html = image | split:"/>" | first | replace:'../../', '../' %}
+            {% else %}
+              {% assign html = image | split:"/>" | first | replace:'../','' %}
+            {% endif %}
+            
             <a href="{{ post.url | relative_url }}">
               <img {{ html }} />
             </a>
