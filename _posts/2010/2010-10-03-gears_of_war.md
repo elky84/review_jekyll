@@ -3,7 +3,7 @@ layout: post
 title: 기어스 오브 워
 rating: ⭐️⭐️⭐️⭐️⭐️
 description: 시각적 충격을 가져다 준 역대급 TPS, 언리얼 엔진을 중심에 올려놓다.
-categories: [게임, TPS]
+categories: [게임, TPS, 온라인]
 tags: [XBOX360, 기어스 오브 워, 에픽]
 ---
 
