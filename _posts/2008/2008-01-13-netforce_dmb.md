@@ -3,7 +3,7 @@ layout: post
 title: 넷포스 DMB PMP
 rating: ⭐️⭐️⭐️⭐️⭐️
 description: Windows CE 기반 PMP
-categories: [오픈 케이스]
+categories: [오픈케이스]
 tags: [PMP, Mobile, PDA]
 ---
 
