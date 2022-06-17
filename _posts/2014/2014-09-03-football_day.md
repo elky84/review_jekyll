@@ -57,16 +57,16 @@ tags: [PC, 온라인, NHN]
 
 ![FD](../../images/2014/football_day_09.png)
 
-![FD](../../images/2014/football_day_010.png)
+![FD](../../images/2014/football_day_10.png)
 
-![FD](../../images/2014/football_day_011.png)
+![FD](../../images/2014/football_day_11.png)
 
-![FD](../../images/2014/football_day_012.png)
+![FD](../../images/2014/football_day_12.png)
 
-![FD](../../images/2014/football_day_013.png)
+![FD](../../images/2014/football_day_13.png)
 
-![FD](../../images/2014/football_day_014.png)
+![FD](../../images/2014/football_day_14.png)
 
-![FD](../../images/2014/football_day_015.png)
+![FD](../../images/2014/football_day_15.png)
 
-![FD](../../images/2014/football_day_016.png)
+![FD](../../images/2014/football_day_16.png)
