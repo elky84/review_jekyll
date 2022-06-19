@@ -5,6 +5,7 @@ rating: ⭐️⭐️⭐️⭐️
 description: 쿨타임 마다 즐기게 되는 Escape From City!
 categories: [게임, 액션]
 tags: [DC, 소닉, 세가]
+youtube: D1jHA2Itfbw
 ---
 
 드림 캐스트 게임들은 왜 이리 명작이 많을까?

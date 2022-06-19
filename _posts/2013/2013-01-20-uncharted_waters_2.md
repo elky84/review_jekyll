@@ -49,7 +49,7 @@ tags: [PC, 코에이, 대항해시대]
 
 ![UW](../../images/2013/uncharted_waters2_06.jpg)
 
-[대항해시대2 메인 테마](http://www.youtube.com/watch?v=RXioO-iDEc4)
+{% include youtube.html id="RXioO-iDEc4" %}
 
 내가 이 화면을 왜 마지막으로 뒀느냐 하면!!
 

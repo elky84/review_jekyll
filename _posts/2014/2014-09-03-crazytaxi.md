@@ -5,6 +5,7 @@ rating: ⭐️⭐️⭐️⭐️
 description: 호쾌한 택시기사. 말그대로 미쳤다
 categories: [게임, 레이싱]
 tags: [DC, 크레이지 택시, 세가]
+youtube: qwgdlT9diSo
 ---
 
 택시 기사가 되어 손님을 어떤 수를 써서라도 빠르게 데려다 주면 되는 게임.

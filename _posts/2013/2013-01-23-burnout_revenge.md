@@ -5,6 +5,7 @@ rating: ⭐️⭐️⭐️⭐️☆
 description: 스트레스 풀고 싶을땐 번아웃이 제격!
 categories: [게임, 레이싱]
 tags: [XBOX360, 번아웃, 크리테리온 게임즈]
+youtube: 3UkyNn_U6J8
 ---
 
 ![번아웃](../../images/2013/burnout_revenge.jpg)

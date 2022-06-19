@@ -4,7 +4,8 @@ title: 소닉 제네레이션
 rating: ⭐️⭐️⭐️⭐️⭐️
 description: 이렇게만 하자~ 세가!
 categories: [게임, 액션]
-tags: [PC, 소]
+tags: [PC, 소닉, 세가]
+youtube: 7E_ES9ehw5o
 ---
 
 ![소닉](../../images/2013/sonic_generations.jpg)
