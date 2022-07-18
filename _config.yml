@@ -1,6 +1,6 @@
 title: Elky Review
 description: 게임, IT 기기, 피규어 등 다양한 제품을 리뷰하는 블로그입니다.
-logo: nes-kirby
+logo: nes-squirtle
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag

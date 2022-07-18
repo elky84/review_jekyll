@@ -267,29 +267,29 @@ footer {
 }
 
 .nes-btn.is-red::after {
-  box-shadow: inset -4px -4px #fc0b0b;
+  box-shadow: inset -4px -4px #da0505;
 }
 .nes-btn.is-red:hover {
-  background-color: #f97c7c;
+  background-color: #ee2626;
 }
 .nes-btn.is-red:hover::after {
-  box-shadow: inset -6px -6px #f97c7c;
+  box-shadow: inset -6px -6px #be2424;
 }
 
 .nes-btn.is-yellow {
   color: #fafafa;
-  background-color: #ceb00a;
+  background-color: #f1cf0d;
   margin: 5px;
 }
 
 .nes-btn.is-yellow::after {
-  box-shadow: inset -4px -4px #ceb00a;
+  box-shadow: inset -4px -4px #daba07;
 }
 .nes-btn.is-yellow:hover {
-  background-color: #d3bc28;
+  background-color: #f0d20e;
 }
 .nes-btn.is-yellow:hover::after {
-  box-shadow: inset -6px -6px #d3bc28;
+  box-shadow: inset -6px -6px #c9b00d;
 }
 
 .nes-btn.is-gray {
