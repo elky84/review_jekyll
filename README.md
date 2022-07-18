@@ -17,6 +17,7 @@
 * 테마는 [jekyll-theme-8bit] (https://github.com/julianolf/jekyll-theme-8bit) 를 사용했습니다
 * 이모지는 [emoji](https://gist.github.com/rxaviers/7360908)를 참고
 * 폰트는 Press Start 2P가 한글이 어색해서 [DosGothic](https://noonnu.cc/font_page/239)으로 변경
+* CSS는 [NES.css](https://nostalgic-css.github.io/NES.css/)를 참고해주세요
 
 ## Credits
 
