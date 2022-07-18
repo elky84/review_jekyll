@@ -4,7 +4,19 @@ comments: true
 ---
 
 <small class="post-info">{{ page.date | date: "%B %-d, %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<h1>
+  {% if page.categories contains '게임' %}
+      <i class="snes-logo"></i>
+  {% elsif page.categories contains '영화' 
+    or page.categories contains '드라마'
+    or page.categories contains '연극' 
+    or page.categories contains '연극' %}
+      <i class="nes-icon like"></i>
+  {% else %}
+      <i class="nes-icon heart"></i>
+  {% endif %}
+  {{ page.title }}
+</h1>
 <p class="post-info">{{ page.description }}</p>
 <h3 class="post-info">{{ page.rating }}</h3>
 <small class="post-info">by {{ page.author | default: site.author }}</small>
