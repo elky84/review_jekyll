@@ -7,7 +7,7 @@ categories: [영화, 코미디, 로맨틱 코미디]
 tags: [쇼퍼홀릭]
 ---
 
-![쇼퍼홀릭](../../images/2009/shopper_holic.jpg)
+![쇼퍼홀릭](../../img/2009/shopper_holic.jpg)
 
 사실 내가 한 지름 하는지라....매우 궁금한 영화였다.
 

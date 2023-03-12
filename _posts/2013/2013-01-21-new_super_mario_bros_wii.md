@@ -7,7 +7,7 @@ categories: [게임, 플랫포머]
 tags: [NDS, 닌텐도, 마리오]
 ---
 
-![마리오](../../images/2013/new_super_mario_bros.jpg)
+![마리오](../../img/2013/new_super_mario_bros.jpg)
 
 뉴 슈마와 다른 점이 그리 많지 않아, 뉴 슈마의 WII 컨버전 정도라고 하려 생각 했었으나 아이스 마리오와 4인 플레이의 메리트는 꽤나 컸다.
 

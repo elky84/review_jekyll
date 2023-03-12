@@ -7,7 +7,7 @@ categories: [게임, JRPG]
 tags: [PSP, 아틀러스, 페르소나]
 ---
 
-![페르소나3](../../images/2011/persona3_portable.jpg)
+![페르소나3](../../img/2011/persona3_portable.jpg)
 
 진 여신전생3 녹턴(이하 녹턴)을 매우 재미있게 하고 난 이후, 자연스레 아틀라스의 RPG에 관심을 가지게 되었다.
 

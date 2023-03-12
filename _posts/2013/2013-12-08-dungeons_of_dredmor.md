@@ -7,7 +7,7 @@ categories: [게임, 로그라이크, 던전]
 tags: [PC, Dungeons of Dredmor, Gaslamp Games]
 ---
 
-![Dungeons of Dredmor](../../images/2013/dungeons_of_dredmor.jpg)
+![Dungeons of Dredmor](../../img/2013/dungeons_of_dredmor.jpg)
 
 나름 인지도 있는 로그 라이크 게임.
 

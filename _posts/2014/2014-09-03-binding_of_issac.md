@@ -17,8 +17,8 @@ tags: [PC, 배트맨, 락 스테디]
 
 나름 할만하긴했는데… 퍼즐보다 슈팅 게임으로써의 컨트롤이 더 중요하고, 슈팅 게임으로서의 난이도가 로그라이크처럼 운에 따른다는게 마냥 재밌지는 않았다.
 
-![BOI](../../images/2014/binding_of_issac_00.jpg)
+![BOI](../../img/2014/binding_of_issac_00.jpg)
 
-![BOI](../../images/2014/binding_of_issac_01.jpg)
+![BOI](../../img/2014/binding_of_issac_01.jpg)
 
-![BOI](../../images/2014/binding_of_issac_02.jpg)
+![BOI](../../img/2014/binding_of_issac_02.jpg)

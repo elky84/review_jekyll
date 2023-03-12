@@ -7,9 +7,9 @@ categories: [게임, JRPG]
 tags: [PS2, 아틀러스, 진 여신전생]
 ---
 
-![녹턴](../../images/2010/shin_megami_tensei_3_01.jpg)
+![녹턴](../../img/2010/shin_megami_tensei_3_01.jpg)
 
-![녹턴](../../images/2010/shin_megami_tensei_3_02.jpg)
+![녹턴](../../img/2010/shin_megami_tensei_3_02.jpg)
 
 아무 것도 모르고 새 제품이 13000원이란 가격이라 하길래,  싼데~ 걍 함 해볼까하고 집어왔던 게임. (그게 아마 부천 스타 겜샵이었던거 같다)
 

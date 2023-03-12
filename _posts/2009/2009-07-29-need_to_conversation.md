@@ -7,7 +7,7 @@ categories: [연극, 일상]
 tags: [대화가 필요해]
 ---
 
-![대화가 필요해](../../images/2009/need_to_conversation.jpg)
+![대화가 필요해](../../img/2009/need_to_conversation.jpg)
 
 식탁도 하나, 메뉴도 하나. 콩나물 비빔밥만 전문으로 하는 어느 가게에서 벌어진 이야기를 다룬 작품이다.
 

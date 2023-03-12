@@ -19,12 +19,12 @@ tags: [PC, 코나미, 캐슬베니아]
 
 나의 악마성은 이런게 아냐! 정도가 아니라면, 분명히 할만한 3D 액션 게임임에는 분명한 작품.
 
-![CV](../../images/2014/castlevania_los_00.jpg)
+![CV](../../img/2014/castlevania_los_00.jpg)
 
-![CV](../../images/2014/castlevania_los_01.jpg)
+![CV](../../img/2014/castlevania_los_01.jpg)
 
-![CV](../../images/2014/castlevania_los_02.jpg)
+![CV](../../img/2014/castlevania_los_02.jpg)
 
-![CV](../../images/2014/castlevania_los_03.jpg)
+![CV](../../img/2014/castlevania_los_03.jpg)
 
-![CV](../../images/2014/castlevania_los_04.jpg)
+![CV](../../img/2014/castlevania_los_04.jpg)

@@ -7,8 +7,8 @@ categories: [추억의 게임, 스테이지, 플랫포머]
 tags: [추억의 게임, 1990년, 카네코, 메가 드라이브]
 ---
 
-![wani_wani_world_01](../../images/2002/wani_wani_world_01.jpg)
-![wani_wani_world_01](../../images/2002/wani_wani_world_02.jpg)
+![wani_wani_world_01](../../img/2002/wani_wani_world_01.jpg)
+![wani_wani_world_01](../../img/2002/wani_wani_world_02.jpg)
 
 이 게임은 메가드라이브 게임인데, 나는 시간제로 아케이드에서 플레이 했었다.
 

@@ -7,7 +7,7 @@ categories: [영화, 로맨틱 코미디]
 tags: [내 아내의 모든 것, 임수정, 류승룡, 이선균]
 ---
 
-![내 아내의 모든 것](../../images/2013/a_boyfriend_for_my_wife.jpg)
+![내 아내의 모든 것](../../img/2013/a_boyfriend_for_my_wife.jpg)
 
 
 딱히 임수정의 팬은 아닌데, 임수정이 나온 영화는 꽤나 많이 본거 같다.

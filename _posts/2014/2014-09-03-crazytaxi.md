@@ -16,12 +16,12 @@ youtube: qwgdlT9diSo
 
 크레이지 택시를 떠올릴 때 나는 번아웃과 아웃런을 자주 떠올리는데, 상대적으로 라이트한 레이싱 게임은 두 게임보다도 훨씬 더 라이트하고, 스트레스 없이 즐길 수 있는 게임.
 
-![CT](../../images/2014/crazytaxi_00.jpg)
+![CT](../../img/2014/crazytaxi_00.jpg)
 
-![CT](../../images/2014/crazytaxi_01.jpg)
+![CT](../../img/2014/crazytaxi_01.jpg)
 
-![CT](../../images/2014/crazytaxi_02.jpg)
+![CT](../../img/2014/crazytaxi_02.jpg)
 
-![CT](../../images/2014/crazytaxi_03.jpg)
+![CT](../../img/2014/crazytaxi_03.jpg)
 
-![CT](../../images/2014/crazytaxi_04.jpg)
+![CT](../../img/2014/crazytaxi_04.jpg)

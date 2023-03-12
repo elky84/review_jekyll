@@ -7,7 +7,7 @@ categories: [게임, 스포츠, 축구]
 tags: [PC, 온라인, EA]
 ---
 
-![FO3](../../images/2014/fifa_online_3.jpg)
+![FO3](../../img/2014/fifa_online_3.jpg)
 
 엔진 자체는 구 엔진이라 아쉬움이 없는건 아닌데, 카드 뽑기 + 강화를 아주 잘 녹여냈다.
 

@@ -20,6 +20,6 @@ youtube: ZId5O3dbYJw
 
 세가! 진정 이렇게 재밌고 스타일한 게임을 내버려 둘테야?
 
-![JET SET RADIO](../../images/2014/jet_set_radio_00.jpg)
+![JET SET RADIO](../../img/2014/jet_set_radio_00.jpg)
 
-![JET SET RADIO](../../images/2014/jet_set_radio_01.jpg)
+![JET SET RADIO](../../img/2014/jet_set_radio_01.jpg)

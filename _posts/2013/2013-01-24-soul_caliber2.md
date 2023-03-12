@@ -7,7 +7,7 @@ categories: [게임, 대전 액션]
 tags: [PS2, 남코, 소울 칼리버]
 ---
 
-![솔칼](../../images/2013/soul_caliber2_00.jpg)
+![솔칼](../../img/2013/soul_caliber2_00.jpg)
 
 나는 격투 게임을 좋아한다. 어린 시절부터 수~ 많은 격투 게임을 했다.
 
@@ -25,19 +25,19 @@ tags: [PS2, 남코, 소울 칼리버]
 
 내가 손이 느리다 뿐 아예 원하는 커맨드은 충분히 가능한데, 콤보가 덜 필요한 솔칼 시리즈의 특성상 종베기, 횡베기, 가드만 적절히 사용해도 충분히 승리할 수 있기 때문. (DOA 시리즈도 그런 의미에서 재밌게 할 수 있었다)
 
-![솔칼](../../images/2013/soul_caliber2_01.jpg)
+![솔칼](../../img/2013/soul_caliber2_01.jpg)
 
 PS2판은 특별히 헤이하치가 등장한다.
 
 XBOX판은 스폰, GC판은 링크가 출현한다.
 
-![솔칼](../../images/2013/soul_caliber2_02.jpg)
+![솔칼](../../img/2013/soul_caliber2_02.jpg)
 
-![솔칼](../../images/2013/soul_caliber2_03.jpg)
+![솔칼](../../img/2013/soul_caliber2_03.jpg)
 
-![솔칼](../../images/2013/soul_caliber2_04.jpg)
+![솔칼](../../img/2013/soul_caliber2_04.jpg)
 
-![솔칼](../../images/2013/soul_caliber2_05.jpg)
+![솔칼](../../img/2013/soul_caliber2_05.jpg)
 
 솔칼2를 재밌게 즐긴 또 다른 요소는, 바로 웨폰 마스터 모드였다.
 

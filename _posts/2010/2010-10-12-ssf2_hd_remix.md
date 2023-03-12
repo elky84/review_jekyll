@@ -7,7 +7,7 @@ categories: [게임, 대전 액션]
 tags: [XBOX360, 캡콤, 스트리트 파이터]
 ---
 
-![스파](../../images/2010/ssf2_hd_remix.jpg)
+![스파](../../img/2010/ssf2_hd_remix.jpg)
 
 개인적으로 격투 게임중에서 스트리트 파이터 시리즈를 가장 좋아한다. 
 

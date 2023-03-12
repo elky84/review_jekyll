@@ -7,9 +7,9 @@ categories: [추억의 게임, 벨트 스크롤]
 tags: [추억의 게임, 1989년, 캡콤, 아케이드]
 ---
 
-![final fight](../../images/2002/final_fight_01.jpg)
-![final fight](../../images/2002/final_fight_02.jpg)
-![final fight](../../images/2002/final_fight_03.jpg)
+![final fight](../../img/2002/final_fight_01.jpg)
+![final fight](../../img/2002/final_fight_02.jpg)
+![final fight](../../img/2002/final_fight_03.jpg)
 
 아직도 이름이 기억나는 집 바로 옆건물에 있던 명보 오락실에서 신종 게임을 들여놓는데에 열심히였다.
 

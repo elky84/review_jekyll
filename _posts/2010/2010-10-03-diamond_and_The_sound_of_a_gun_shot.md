@@ -7,7 +7,7 @@ categories: [게임, 교섭, 어드벤쳐]
 tags: [PSP, 소니]
 ---
 
-![총성과 다이아몬드](../../images/2010/diamond_and_The_sound_of_a_gun_shot.jpg)
+![총성과 다이아몬드](../../img/2010/diamond_and_The_sound_of_a_gun_shot.jpg)
 
 생각보다 평이 좋아, 나름 힘들게 구해서 플레이한 소프트.
 

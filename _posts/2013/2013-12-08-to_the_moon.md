@@ -7,7 +7,7 @@ categories: [게임, 액션]
 tags: [PS2, 시노비, 세가]
 ---
 
-![To The Moon](../../images/2013/to_the_moon.png)
+![To The Moon](../../img/2013/to_the_moon.png)
 
 RPG 쯔꾸르로 만든 음악 감상 게임.
 

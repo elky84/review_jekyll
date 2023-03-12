@@ -7,7 +7,7 @@ categories: [게임, 샌드박스]
 tags: [PC, 모장, 마인 크래프트]
 ---
 
-![MC](../../images/2012/mine_craft.jpg)
+![MC](../../img/2012/mine_craft.jpg)
 
 도트의 전설. 악마의 게임이라 불리우는 마인크래프트.
 

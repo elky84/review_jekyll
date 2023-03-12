@@ -7,7 +7,7 @@ categories: [게임, 우주, MMORPG]
 tags: [PC, 온라인, 이브 온라인, CCP Games]
 ---
 
-![EVE Online](../../images/2013/eve_online.jpg)
+![EVE Online](../../img/2013/eve_online.jpg)
 
 친구의 꼬드김에 넘어가 시작한 SF 온라인 게임.
 

@@ -7,8 +7,8 @@ categories: [추억의 게임, 스테이지, 플랫포머]
 tags: [추억의 게임, 1991년, 캡콤, 아케이드]
 ---
 
-![super_pang_01](../../images/2002/super_pang_01.jpg)
-![super_pang_01](../../images/2002/super_pang_02.jpg)
+![super_pang_01](../../img/2002/super_pang_01.jpg)
+![super_pang_01](../../img/2002/super_pang_02.jpg)
 
 팡팡이라는 이름으로도 알려진, 슈퍼팡이라는 게임도 오락실 한켠에서 꽤 많은 인기를 끌었는데, 큰 방울은 작은방울로 작은방울은 터트려서 없애는 방식의 게임이다.
 

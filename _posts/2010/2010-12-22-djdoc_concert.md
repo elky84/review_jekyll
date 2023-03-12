@@ -7,7 +7,7 @@ categories: [콘서트]
 tags: [DJ-DOC]
 ---
 
-![DJ-DOC 콘서트](../../images/2010/djdoc_concert.jpg)
+![DJ-DOC 콘서트](../../img/2010/djdoc_concert.jpg)
 
 
 2010년 크리스마스~! 

@@ -5,7 +5,7 @@ author: Anonymous
 tags: [ipsum]
 ---
 
-In this post you are going to take a look on how images, nested lists, and definition lists look like.
+In this post you are going to take a look on how img, nested lists, and definition lists look like.
 
 ### Small image
 

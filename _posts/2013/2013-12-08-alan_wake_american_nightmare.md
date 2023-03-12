@@ -7,7 +7,7 @@ categories: [게임, 액션]
 tags: [PS2, 시노비, 세가]
 ---
 
-![앨런웨이크](../../images/2013/alan_wake_american_nightmare.jpg)
+![앨런웨이크](../../img/2013/alan_wake_american_nightmare.jpg)
 
 원작과 같은 제작사에서 만든 것 맞나?
 

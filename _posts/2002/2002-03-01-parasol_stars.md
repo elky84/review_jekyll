@@ -7,8 +7,8 @@ categories: [추억의 게임, 플랫포머, 스테이지]
 tags: [추억의 게임, 1989년, 타이토, PC엔진]
 ---
 
-![parasol_stars_01](../../images/2002/parasol_stars_01.jpg)
-![parasol_stars_02](../../images/2002/parasol_stars_02.jpg)
+![parasol_stars_01](../../img/2002/parasol_stars_01.jpg)
+![parasol_stars_02](../../img/2002/parasol_stars_02.jpg)
 
 
 그 당시 오락실에서 볼 수 있었던 게임들은 파라솔 스타(PC엔진), 100가지 게임(패미컴)등등 게임기를 기판대신 넣은후 시간제로 게임을 즐기도록 하는 게임도 많았다.

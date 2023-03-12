@@ -16,8 +16,8 @@ Esape From City 만 플레이하고 끄는 것이, 내 스트레스 해소법이
 
 3D 세계에서 스피디한 소닉도 즐거울 수 있다는 것을 느끼기에 충분했다. (소닉 어드벤쳐 DX로는 부족했다고 생각한다.)
 
-![소닉](../../images/2014/sonic_adventure2_00.jpg)
+![소닉](../../img/2014/sonic_adventure2_00.jpg)
 
-![소닉](../../images/2014/sonic_adventure2_01.png)
+![소닉](../../img/2014/sonic_adventure2_01.png)
 
-![소닉](../../images/2014/sonic_adventure2_02.png)
+![소닉](../../img/2014/sonic_adventure2_02.png)

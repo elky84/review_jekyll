@@ -7,7 +7,7 @@ categories: [영화, 멜로]
 tags: [너는 내 운명, 전도연, 황정민]
 ---
 
-![You are my sunshine](../../images/2008/you_are_my_sunshine.jpg)
+![You are my sunshine](../../img/2008/you_are_my_sunshine.jpg)
 
 진짜 사랑이란 무엇일까??
 난 아직 잘 모르겠지만, 이런 사랑을 해본 사람은 행복한 사람이라고 생각해

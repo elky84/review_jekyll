@@ -8,10 +8,10 @@ tags: [추억의 게임, RPG, WRPG, 발더스 게이트, 바이오웨어]
 youtube: zLNbEDPeHX4
 ---
 
-![발더스게이트](../../images/2005/baldurs_gate_00.png)
-![발더스게이트](../../images/2005/baldurs_gate_01.png)
-![발더스게이트](../../images/2005/baldurs_gate_02.png)
-![발더스게이트](../../images/2005/baldurs_gate_03.png)
+![발더스게이트](../../img/2005/baldurs_gate_00.png)
+![발더스게이트](../../img/2005/baldurs_gate_01.png)
+![발더스게이트](../../img/2005/baldurs_gate_02.png)
+![발더스게이트](../../img/2005/baldurs_gate_03.png)
 
 - D&D 규칙을 바탕으로 세계와 다양한 상호 작용의 선을 적당히 그은 작품이라고 볼 수 있다.
     - 예를 들어 NPC를 마음대로 죽일 수 있다거나 물건을 훔칠 수 있는 반면, 성향 (D&D에서 선, 악, 중립 혹은 더 세분화된 분류로 나뉘는 성향)에 따라 다른 상황이 펼쳐지는 것을 말한다.

@@ -7,7 +7,7 @@ categories: [게임, 축구, 스포츠]
 tags: [PC, 온라인, NHN]
 ---
 
-![FD](../../images/2014/football_day_00.jpg)
+![FD](../../img/2014/football_day_00.jpg)
 
 웹 게임으로써 갖는 접근성이 우선 강점인 축구 시뮬레이션 게임이다.
 
@@ -39,34 +39,34 @@ tags: [PC, 온라인, NHN]
 
 주로 아쉬운 점 얘기를 많이 했는데… 그럼에도 가볍게 즐길 축구 시뮬레이션 게임으로 적절한 것은 사실.
 
-![FD](../../images/2014/football_day_01.png)
+![FD](../../img/2014/football_day_01.png)
 
-![FD](../../images/2014/football_day_02.png)
+![FD](../../img/2014/football_day_02.png)
 
-![FD](../../images/2014/football_day_03.png)
+![FD](../../img/2014/football_day_03.png)
 
-![FD](../../images/2014/football_day_04.png)
+![FD](../../img/2014/football_day_04.png)
 
-![FD](../../images/2014/football_day_05.png)
+![FD](../../img/2014/football_day_05.png)
 
-![FD](../../images/2014/football_day_06.png)
+![FD](../../img/2014/football_day_06.png)
 
-![FD](../../images/2014/football_day_07.png)
+![FD](../../img/2014/football_day_07.png)
 
-![FD](../../images/2014/football_day_08.png)
+![FD](../../img/2014/football_day_08.png)
 
-![FD](../../images/2014/football_day_09.png)
+![FD](../../img/2014/football_day_09.png)
 
-![FD](../../images/2014/football_day_10.png)
+![FD](../../img/2014/football_day_10.png)
 
-![FD](../../images/2014/football_day_11.png)
+![FD](../../img/2014/football_day_11.png)
 
-![FD](../../images/2014/football_day_12.png)
+![FD](../../img/2014/football_day_12.png)
 
-![FD](../../images/2014/football_day_13.png)
+![FD](../../img/2014/football_day_13.png)
 
-![FD](../../images/2014/football_day_14.png)
+![FD](../../img/2014/football_day_14.png)
 
-![FD](../../images/2014/football_day_15.png)
+![FD](../../img/2014/football_day_15.png)
 
-![FD](../../images/2014/football_day_16.png)
+![FD](../../img/2014/football_day_16.png)

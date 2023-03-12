@@ -21,10 +21,10 @@ tags: [Mobile, 머나먼 왕국]
 
 그리고 일정 수준 이상의 플레이는 사실상 카드 성장의 재미밖에 없어지는 단조로운 게임성도 문제다.
 
-![FK](../../images/2014/faraway_kingdom_00.jpg)
+![FK](../../img/2014/faraway_kingdom_00.jpg)
 
-![FK](../../images/2014/faraway_kingdom_01.jpg)
+![FK](../../img/2014/faraway_kingdom_01.jpg)
 
-![FK](../../images/2014/faraway_kingdom_02.jpg)
+![FK](../../img/2014/faraway_kingdom_02.jpg)
 
-![FK](../../images/2014/faraway_kingdom_03.jpg)
+![FK](../../img/2014/faraway_kingdom_03.jpg)

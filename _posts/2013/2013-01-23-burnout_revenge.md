@@ -8,7 +8,7 @@ tags: [XBOX360, 번아웃, 크리테리온 게임즈]
 youtube: 3UkyNn_U6J8
 ---
 
-![번아웃](../../images/2013/burnout_revenge.jpg)
+![번아웃](../../img/2013/burnout_revenge.jpg)
 
 아무 생각없이 화끈하게 즐길 수 있는 레이싱 게임의 대표 주자.
 

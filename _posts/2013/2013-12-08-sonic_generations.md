@@ -8,7 +8,7 @@ tags: [PC, 소닉, 세가]
 youtube: 7E_ES9ehw5o
 ---
 
-![소닉](../../images/2013/sonic_generations.jpg)
+![소닉](../../img/2013/sonic_generations.jpg)
 
 최고다! 
 

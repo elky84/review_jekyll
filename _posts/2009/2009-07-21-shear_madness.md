@@ -7,7 +7,7 @@ categories: [연극, 추리]
 tags: [쉬어 매드니스]
 ---
 
-![쉬어 매드니스](../../images/2009/shear_madness.jpg)
+![쉬어 매드니스](../../img/2009/shear_madness.jpg)
 
 사실 이 공연을 고를 당시 처음 선택한 것은 순정만화였다.
 

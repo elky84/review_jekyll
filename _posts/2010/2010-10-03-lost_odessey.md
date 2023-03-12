@@ -7,7 +7,7 @@ categories: [게임, JRPG]
 tags: [XBOX360, 미스트워커, 사카구치 히로노부, 이노우에 타케히코]
 ---
 
-![로스트 오디세이](../../images/2010/lost_odessey.jpg)
+![로스트 오디세이](../../img/2010/lost_odessey.jpg)
 
 천년의 꿈..
 

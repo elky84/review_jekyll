@@ -7,7 +7,7 @@ categories: [콘서트]
 tags: [클래지콰이, Mucho Live]
 ---
 
-![클래지콰이 콘서트](../../images/2009/clazziquai_mucho_live_tour.jpg)
+![클래지콰이 콘서트](../../img/2009/clazziquai_mucho_live_tour.jpg)
 
 내가 클래지콰이 노래를 접한 시기는 1집이 발매되던 2004년으로 기억한다. 그때쯤 학교를 휴학했던 시기였는데, 그럼에도 불구하고 심리적으로는 무척이나 안정된 시기였고 많은 점에서 나에게 도움이 된 시기가 아니었나 싶다.
 

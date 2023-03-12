@@ -7,7 +7,7 @@ categories: [게임, 잠입 액션]
 tags: [PC, 클레이 엔터테인먼트]
 ---
 
-![Mark of the Ninja](../../images/2013/mark_of_the_ninja.png)
+![Mark of the Ninja](../../img/2013/mark_of_the_ninja.png)
 
 2D 게임으로 Meta Score 90을 넘겼다는 전설의 게임.
 

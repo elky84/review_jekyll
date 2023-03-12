@@ -7,7 +7,7 @@ categories: [영화, 공포]
 tags: [드래그 미 투 헬, 샘 레이미]
 ---
 
-![드래그 미 투 헬](../../images/2009/drag_me_to_hell.jpg)
+![드래그 미 투 헬](../../img/2009/drag_me_to_hell.jpg)
 
 매년 한편씩은 보아온 공포영화.
 

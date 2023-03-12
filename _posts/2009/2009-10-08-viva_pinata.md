@@ -7,7 +7,7 @@ categories: [게임, 팜]
 tags: [비바 피냐타, XBOX360, 레어]
 ---
 
-![비바피냐타](../../images/2009/viva_pinata.jpg)
+![비바피냐타](../../img/2009/viva_pinata.jpg)
 
 비바 피냐타는 진짜 전혀 기대 안한게임이었다. 
 

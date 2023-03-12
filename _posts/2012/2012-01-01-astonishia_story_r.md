@@ -7,7 +7,7 @@ categories: [게임, JRPG]
 tags: [PSP, 손노리, 어스토니시아 스토리]
 ---
 
-![어스토](../../images/2012/astonishia_story_r.jpg)
+![어스토](../../img/2012/astonishia_story_r.jpg)
 
 어스토니시아 스토리의 명성은 익히 들어 알고 있고, 현재의 손노리와 엔트리브를 있게한 명작이란 것은 귀에 못이 박히도록 들어 잘 알고 있었다.
 

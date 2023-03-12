@@ -7,7 +7,7 @@ categories: [게임, 액션, 퍼즐]
 tags: [PS3, 남코, 괴혼]
 ---
 
-![괴혼](../../images/2010/katamari_forever.jpg)
+![괴혼](../../img/2010/katamari_forever.jpg)
 
 로맨틱 접착 롤링 액션이라는 신장르(?)를 개척했던 괴혼의 최신작.
 

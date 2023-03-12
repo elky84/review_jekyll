@@ -7,7 +7,7 @@ categories: [게임, 파티, 미니게임]
 tags: [NDS, 닌텐도, 와리오]
 ---
 
-![와리오](../../images/2013/made_in_wario.jpg)
+![와리오](../../img/2013/made_in_wario.jpg)
 
 이 작품도 NDS 초기에 구입해서 아주 즐겁게 플레이했던 게임.
 

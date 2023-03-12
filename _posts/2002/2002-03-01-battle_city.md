@@ -7,8 +7,8 @@ categories: [추억의 게임, 밀리터리]
 tags: [추억의 게임, 1989년, 남코, 아케이드]
 ---
 
-![battle city](../../images/2002/battle_city_01.jpg)
-![battle city](../../images/2002/battle_city_02.jpg)
+![battle city](../../img/2002/battle_city_01.jpg)
+![battle city](../../img/2002/battle_city_02.jpg)
 
 게임을 처음 접하게 된 사람들은, 대부분 주변인물들의 유혹(?)에 게임에 빠지게 되는 경우가 많았다
 

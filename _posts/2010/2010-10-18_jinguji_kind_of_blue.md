@@ -7,8 +7,8 @@ categories: [게임, 추리, 재즈]
 tags: [PS2, 워크잼, 진구지]
 ---
 
-![진구지](../../images/2010/jinguji_kind_of_blue_01.jpg)
-![진구지](../../images/2010/jinguji_kind_of_blue_02.jpg)
+![진구지](../../img/2010/jinguji_kind_of_blue_01.jpg)
+![진구지](../../img/2010/jinguji_kind_of_blue_02.jpg)
 
 진구지 사부로 (이하 진구지)를 처음 접한 것은, '진구지 사부로 - 이노센트 블랙'이었다.
 

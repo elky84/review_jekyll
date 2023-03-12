@@ -7,7 +7,7 @@ categories: [게임, 액션, 범죄]
 tags: [PC, 데네톤 게임즈, Hotline Miami]
 ---
 
-![Hotline Miami](../../images/2013/hotline_miami.jpg)
+![Hotline Miami](../../img/2013/hotline_miami.jpg)
 
 게임 자체는 단순 2D 슈팅이라 볼 수 있다.
 

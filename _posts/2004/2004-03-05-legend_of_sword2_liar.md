@@ -8,9 +8,9 @@ tags: [추억의 게임, 남인환, RPG, KRPG]
 youtube: vPTZ3zDo3P4
 ---
 
-![신검의전설2](../../images/2004/legend_of_sword2_liar_00.png)
-![신검의전설2](../../images/2004/legend_of_sword2_liar_01.png)
-![신검의전설2](../../images/2004/legend_of_sword2_liar_02.png)
+![신검의전설2](../../img/2004/legend_of_sword2_liar_00.png)
+![신검의전설2](../../img/2004/legend_of_sword2_liar_01.png)
+![신검의전설2](../../img/2004/legend_of_sword2_liar_02.png)
 
 - 남인환씨가 만든 울티마 7에 큰 영향을 받은 RPG다.
 - 일본식 RPG 게임이 스토리 진행을 할 때 옆길로 새지 못하게 철저하게 막는 걸 생각하면, 본작은 그런 게 없어서 언뜻 보면 게임의 자유도가 높은 것처럼 보이지만 문제는 디테일이 떨어진다는 점이다.

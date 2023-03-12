@@ -7,8 +7,8 @@ categories: [추억의 게임]
 tags: [추억의 게임, 1989년, 코나미, 아케이드]
 ---
 
-![hyper_olympic_01](../../images/2002/hyper_olympic_01.jpg)
-![hyper_olympic_02](../../images/2002/hyper_olympic_02.jpg)
+![hyper_olympic_01](../../img/2002/hyper_olympic_01.jpg)
+![hyper_olympic_02](../../img/2002/hyper_olympic_02.jpg)
 
 
  많은 분들이 기억하시는 올림픽 게임인, 트랙 & 필드 (일명 88올림픽, =하이퍼 올림픽)도 오락실 한켠에 자리하고 있었다.

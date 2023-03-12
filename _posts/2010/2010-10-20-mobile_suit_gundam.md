@@ -7,7 +7,7 @@ categories: [게임, 건담]
 tags: [PS2, 반다이, 건담]
 ---
 
-![건담전기](../../images/2010/mobile_suit_gundam.jpg)
+![건담전기](../../img/2010/mobile_suit_gundam.jpg)
 
 사실 나온지 꽤나 오래된 게임이지만, 2009년 겨울에서야 구입해서 즐긴 소프트다.
 

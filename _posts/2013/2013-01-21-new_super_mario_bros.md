@@ -7,7 +7,7 @@ categories: [게임, 플랫포머]
 tags: [NDS, 닌텐도, 마리오]
 ---
 
-![마리오](../../images/2013/new_super_mario_bros_wii.jpg)
+![마리오](../../img/2013/new_super_mario_bros_wii.jpg)
 
 누구나 다 안다고 말해도 무리가 아닐 정도로 유명한 마리오 시리즈.
 

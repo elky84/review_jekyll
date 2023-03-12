@@ -7,7 +7,7 @@ categories: [게임, FPS]
 tags: [PC, 스펙옵스, 2K]
 ---
 
-![스펙옵스 더 라인](../../images/2013/specops_the_line.png)
+![스펙옵스 더 라인](../../img/2013/specops_the_line.png)
 
 FPS면서 싱글플레이만 극찬 받는 특이한 게임.
 

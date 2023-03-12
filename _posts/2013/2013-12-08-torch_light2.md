@@ -7,7 +7,7 @@ categories: [게임, 핵앤 슬래시]
 tags: [PC, 토치라이트, Torch Light]
 ---
 
-![Torch Light 2](../../images/2013/torch_light2.jpg)
+![Torch Light 2](../../img/2013/torch_light2.jpg)
 
 디아블로2 제작진이 만든 게임으로 알려진 인디 게임. 
 

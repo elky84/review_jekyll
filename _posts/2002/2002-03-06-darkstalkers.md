@@ -7,8 +7,8 @@ categories: [추억의 게임, 대전 액션]
 tags: [추억의 게임, 1993년, 캡콤, 아케이드, 뱀파이어]
 ---
 
-![darkstalkers_01](../../images/2002/darkstalkers_01.jpg)
-![darkstalkers_02](../../images/2002/darkstalkers_02.jpg)
+![darkstalkers_01](../../img/2002/darkstalkers_01.jpg)
+![darkstalkers_02](../../img/2002/darkstalkers_02.jpg)
 
 다크스토커즈는 뱀파이어, 늑대인간, 고양이 인간, 미이라,프랑켄슈타인등이 등장하는 이색적인 격투게임이었다. 
  

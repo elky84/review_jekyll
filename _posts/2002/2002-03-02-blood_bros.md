@@ -7,8 +7,8 @@ categories: [추억의 게임, 슈팅, 스테이지]
 tags: [추억의 게임, 1990년, TAD, 아케이드]
 ---
 
-![blood_bros_01](../../images/2002/blood_bros_01.jpg)
-![blood_bros_02](../../images/2002/blood_bros_02.jpg)
+![blood_bros_01](../../img/2002/blood_bros_01.jpg)
+![blood_bros_02](../../img/2002/blood_bros_02.jpg)
 
  오락실에 자주 드나들다보니 어떤 게임이 새로 들어오고 나가는지 잘 알 수 있었다. 재미있었던 점은 2~3년 이상 지난게임이 들어오는 일도 자주 있었고, 최신게임이 장사가 잘되는데도 없어지는 일도 있었다는 사실이다.
 

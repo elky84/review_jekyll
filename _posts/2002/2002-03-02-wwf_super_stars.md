@@ -7,8 +7,8 @@ categories: [추억의 게임, 레슬링]
 tags: [추억의 게임, 1990년, WWF, 테크노스 저팬, 아케이드]
 ---
 
-![wwf_superstars_01](../../images/2002/wwf_superstars_01.jpg)
-![wwf_superstars_02](../../images/2002/wwf_superstars_02.jpg)
+![wwf_superstars_01](../../img/2002/wwf_superstars_01.jpg)
+![wwf_superstars_02](../../img/2002/wwf_superstars_02.jpg)
 
 레슬링의 게임이었던 WWF 슈퍼 스타즈라는 게임은 당대의 스타인 헐크호간, 워리어, 빅보스맨, 달러맨, 자이언트, 마초맨등의 특징과 특기등을 제대로 구현해냈으며, 통쾌한 타격감등으로 많은 인기를 끌었지만, 승리를 거두고 다음 스테이지로 넘어가도 체력이 회복되지 않았던 것이 아쉬웠던 게임이었다.
 

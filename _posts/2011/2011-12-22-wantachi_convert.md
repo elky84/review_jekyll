@@ -7,7 +7,7 @@ categories: [콘서트]
 tags: [싸이, 김장훈]
 ---
 
-![형제의 난 완타치 콘서트](../../images/2011/wantachi_concert.jpg)
+![형제의 난 완타치 콘서트](../../img/2011/wantachi_concert.jpg)
 
 2011년 크리스마스~
 

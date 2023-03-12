@@ -7,7 +7,7 @@ categories: [오픈케이스]
 tags: [애플, iOS, iPod Touch, 아이팟, 아이팟 터치]
 ---
 
-![U350-K4K](../../images/2012/ipod_touch_01.jpg)
+![U350-K4K](../../img/2012/ipod_touch_01.jpg)
 
 내 지인들은 다들 알듯, 나는 애플을 그리 좋아하지 않는다.
 
@@ -29,5 +29,5 @@ tags: [애플, iOS, iPod Touch, 아이팟, 아이팟 터치]
 
 갖고 있던 아이팟 터치 2세대 사진을 올려본다.
 
-![U350-K4K](../../images/2012/ipod_touch_02.jpg)
+![U350-K4K](../../img/2012/ipod_touch_02.jpg)
 

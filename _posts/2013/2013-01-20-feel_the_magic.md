@@ -7,7 +7,7 @@ categories: [게임, 파티, 미니게임]
 tags: [NDS, 세가, 너를 위해서라면 죽을 수 있어]
 ---
 
-![너죽어](../../images/2013/feel_the_magic.jpg)
+![너죽어](../../img/2013/feel_the_magic.jpg)
 
 NDSL도 나오지 않았던 뚱땡이 NDS시절...
 

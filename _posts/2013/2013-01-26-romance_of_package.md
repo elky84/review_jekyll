@@ -37,34 +37,34 @@ CD/DVD 디자인도 너~무 이쁘고, 손노리에서 발매한 모든 게임�
 
 자 여기부터 오픈케이스!
 
-![패키지의로망](../../images/2013/romance_of_package_00.jpg)
+![패키지의로망](../../img/2013/romance_of_package_00.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_01.jpg)
+![패키지의로망](../../img/2013/romance_of_package_01.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_02.jpg)
+![패키지의로망](../../img/2013/romance_of_package_02.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_03.jpg)
+![패키지의로망](../../img/2013/romance_of_package_03.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_04.jpg)
+![패키지의로망](../../img/2013/romance_of_package_04.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_05.jpg)
+![패키지의로망](../../img/2013/romance_of_package_05.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_06.jpg)
+![패키지의로망](../../img/2013/romance_of_package_06.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_07.jpg)
+![패키지의로망](../../img/2013/romance_of_package_07.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_08.jpg)
+![패키지의로망](../../img/2013/romance_of_package_08.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_09.jpg)
+![패키지의로망](../../img/2013/romance_of_package_09.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_10.jpg)
+![패키지의로망](../../img/2013/romance_of_package_10.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_11.jpg)
+![패키지의로망](../../img/2013/romance_of_package_11.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_12.jpg)
+![패키지의로망](../../img/2013/romance_of_package_12.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_13.jpg)
+![패키지의로망](../../img/2013/romance_of_package_13.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_14.jpg)
+![패키지의로망](../../img/2013/romance_of_package_14.jpg)
 
-![패키지의로망](../../images/2013/romance_of_package_15.jpg)
+![패키지의로망](../../img/2013/romance_of_package_15.jpg)

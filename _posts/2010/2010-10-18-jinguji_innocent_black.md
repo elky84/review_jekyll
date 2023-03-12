@@ -7,7 +7,7 @@ categories: [게임, 추리, 재즈]
 tags: [PS2, 워크잼, 진구지]
 ---
 
-![진구지](../../images/2010/jinguji_innocent_black.jpg)
+![진구지](../../img/2010/jinguji_innocent_black.jpg)
 
 이 작품을 플레이했던 것이 아마 2004년 이었을 것이다.
 

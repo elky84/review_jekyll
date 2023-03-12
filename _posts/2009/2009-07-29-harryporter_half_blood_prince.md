@@ -7,7 +7,7 @@ categories: [영화, 어드벤쳐, 판타지]
 tags: [해리포터]
 ---
 
-![해리포터 혼혈왕자](../../images/2009/harryporter_half_blood_prince.jpg)
+![해리포터 혼혈왕자](../../img/2009/harryporter_half_blood_prince.jpg)
 
 몇년만이지...? 하여간 굉장히 오랜만에 본 해리포터였다.
 뭣보다 애덜이 왜 이리 큰겨? 헤르미온느는 잘 컸거늘.... 포터 ㅠ_ㅠ 넌 대체.... 

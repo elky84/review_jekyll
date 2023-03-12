@@ -7,7 +7,7 @@ categories: [게임, TPS, 온라인]
 tags: [XBOX360, 기어스 오브 워, 에픽]
 ---
 
-![기어스 오브 워](../../images/2010/gears_of_war.jpg)
+![기어스 오브 워](../../img/2010/gears_of_war.jpg)
 
 개인적으로 슈팅 게임을 잘 못하고, 잘 안한다.
 

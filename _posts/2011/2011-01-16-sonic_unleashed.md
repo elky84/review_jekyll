@@ -7,7 +7,7 @@ categories: [게임, 액션, 어드벤쳐]
 tags: [XBOX360, 소닉, 세가]
 ---
 
-![소닉](../../images/2011/sonic_unleashed.jpg)
+![소닉](../../img/2011/sonic_unleashed.jpg)
 
 소닉 어드벤쳐 2를 너무 재미있게 했기에, 3D 소닉가 재미없다는 편견 따위는 진작 버렸다.
 

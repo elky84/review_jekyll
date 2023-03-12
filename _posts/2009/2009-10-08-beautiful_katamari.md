@@ -7,7 +7,7 @@ categories: [게임, 액션, 퍼즐]
 tags: [괴혼, XBOX360, 남코]
 ---
 
-![괴혼](../../images/2009/beautiful_katamari.jpg)
+![괴혼](../../img/2009/beautiful_katamari.jpg)
 
 ps2용 괴혼은 잠깐 즐겨본 수준이고, 엔딩까지 본건 psp용 아바마마 오셨다 어서 굴려라가 다인 나였지만, 괴혼의 매력은 잘 알고 있는지라 뷰티플 괴혼의 구입을 망설이지 않았다.
 

@@ -35,20 +35,20 @@ tags: [PC, 블리자드, 스타크래프트]
 
 너무 단점 지적을 안했는데... 역사의 큰 한획을 그었고, 그 역사가 오랫동안 큰 밸런스 패치 없이 있을 수 있었단 점만으로도 그 가치를 인정해야 되므로... 칭찬으로 끝까지 마무리 하련다.
 
-![SC](../../images/2013/starcraft_00.jpg)
+![SC](../../img/2013/starcraft_00.jpg)
 
-![SC](../../images/2013/starcraft_01.jpg)
+![SC](../../img/2013/starcraft_01.jpg)
 
-![SC](../../images/2013/starcraft_02.jpg)
+![SC](../../img/2013/starcraft_02.jpg)
 
-![SC](../../images/2013/starcraft_03.jpg)
+![SC](../../img/2013/starcraft_03.jpg)
 
-![SC](../../images/2013/starcraft_04.jpg)
+![SC](../../img/2013/starcraft_04.jpg)
 
-![SC](../../images/2013/starcraft_05.jpg)
+![SC](../../img/2013/starcraft_05.jpg)
 
-![SC](../../images/2013/starcraft_06.jpg)
+![SC](../../img/2013/starcraft_06.jpg)
 
-![SC](../../images/2013/starcraft_07.jpg)
+![SC](../../img/2013/starcraft_07.jpg)
 
-![SC](../../images/2013/starcraft_08.jpg)
+![SC](../../img/2013/starcraft_08.jpg)

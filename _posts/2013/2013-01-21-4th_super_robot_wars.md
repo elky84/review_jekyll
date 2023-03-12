@@ -7,7 +7,7 @@ categories: [게임, 메카닉, SRPG, 건담]
 tags: [SFC, 반다이, 윙키, 슈퍼 로봇 대전]
 ---
 
-![ROBOT](../../images/2013/4th_super_robot_wars_00.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_00.png)
 
 모든 남자 아이들에게 로봇은 로망이다.
 
@@ -17,44 +17,44 @@ tags: [SFC, 반다이, 윙키, 슈퍼 로봇 대전]
 
 나 역시 그래서 2차 로봇대전 G를 이후로 슈로대를 간간히 즐기곤 했다.
 
-![ROBOT](../../images/2013/4th_super_robot_wars_01.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_01.png)
 
 사실 고바리온을 알면 알았지, 겟타는 슈로대에서 처음 봤다.
 
 우울한 스토리관은 성인이 되고나서야 빠져들었는데, 꽤나 매력적이면서 우울한 스토리 전개. 정말 내가 본 로봇물 중에 최고 우울하지 않나 싶다.
 
-![ROBOT](../../images/2013/4th_super_robot_wars_02.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_02.png)
 
 슈로대 오리지널 캐릭터이자, 오리지널 기체인 마장기신의 사이바스타다. 
 어린 시절 만나본 기체라 그런지 몰라도, 요새 나오는 OG 기체들보다 유난히 맘에 드는 사이바스타. (그리고 그랑존!)
 
-![ROBOT](../../images/2013/4th_super_robot_wars_03.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_03.png)
 
 뭉쳐있다~ 싶으면 맵병기지. 필중에 열혈건 맵병기로 다 녹이는 맛이 쏠쏠하다.
 
-![ROBOT](../../images/2013/4th_super_robot_wars_04.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_04.png)
 
 사실 이벤트씬 연출은 대사위주였지만... 당시 게임들의 수준이 그랬으니까 뭐...
 
 이해되는 수준이랄까?
 
-![ROBOT](../../images/2013/4th_super_robot_wars_05.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_05.png)
 
 전반적인 인터미션은 대화 위주로 이루어진다.
 
-![ROBOT](../../images/2013/4th_super_robot_wars_06.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_06.png)
 
 너무 많은 작품을 한 작품 내에 녹여내다보니, 좀 들쭉날쭉한 스토리 전개가 단점이긴하다.
 
 누구랑 대화하는지 보고나서야, 아 이 작품에 나오는 적이구나하고 알게 될 정도랄까?
 
-![ROBOT](../../images/2013/4th_super_robot_wars_07.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_07.png)
 
 그랑존과 조금 다른 루트의 보스 제제난.
 
 네오 그랑존이 실질적 보스고 무시무시 하지만, 제제난도 만만치 않다.
 
-![ROBOT](../../images/2013/4th_super_robot_wars_08.png)
+![ROBOT](../../img/2013/4th_super_robot_wars_08.png)
 
 오라 배틀러는 아군일 땐 정말 무적이지만, 적군일땐 어려운 존재. 허나 우리에겐 필중이 있지. 음하하~~~
 슈퍼 로봇이 아니고선 오라 바리어를 뚫기 쉽지 않으니 열혈도 거는게 좋다.

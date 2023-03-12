@@ -7,8 +7,8 @@ categories: [추억의 게임, 벨트 스크롤]
 tags: [추억의 게임, 1993년, 세가, 메가 드라이브]
 ---
 
-![bare_knuckle_2_01](../../images/2002/bare_knuckle_2_01.jpg)
-![bare_knuckle_2_02](../../images/2002/bare_knuckle_2_02.jpg)
+![bare_knuckle_2_01](../../img/2002/bare_knuckle_2_01.jpg)
+![bare_knuckle_2_02](../../img/2002/bare_knuckle_2_02.jpg)
 
 레인보우 아일랜드나, 악어나라처럼 시간제 게임이었던 베어너클2는, 파이날 파이트 스타일의 횡스크롤 액션 게임이었다.
 
