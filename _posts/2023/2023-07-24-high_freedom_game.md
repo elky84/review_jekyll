@@ -11,7 +11,7 @@ DOS 게임 시절부터 사람들은 다양한 자유도 높은 게임을 떠올
 
 # 울티마 7
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/ultima7_01.png)
+![Untitled](../../img/2023/ultima7_01.png)
 
 ![Untitled](../../img/2023/ultima7_02.png)
 
@@ -55,11 +55,11 @@ DOS 게임 시절부터 사람들은 다양한 자유도 높은 게임을 떠올
 
 # 발더스 게이트
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/baldurs_gate_01.png)
+![Untitled](../../img/2023/baldurs_gate_01.png)
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/baldurs_gate_02.png)
+![Untitled](../../img/2023/baldurs_gate_02.png)
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/baldurs_gate_03.png)
+![Untitled](../../img/2023/baldurs_gate_03.png)
 
 ![Untitled](../../img/2023/baldurs_gate_04.png)
 
@@ -70,11 +70,11 @@ DOS 게임 시절부터 사람들은 다양한 자유도 높은 게임을 떠올
 
 # 폴아웃
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/fallout_01.png)
+![Untitled](../../img/2023/fallout_01.png)
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/fallout_03.png)
+![Untitled](../../img/2023/fallout_03.png)
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/fallout_03.png)
+![Untitled](../../img/2023/fallout_03.png)
 
 ![Untitled](../../img/2023/fallout_04.png)
 
@@ -115,7 +115,7 @@ DOS 게임 시절부터 사람들은 다양한 자유도 높은 게임을 떠올
 
 [https://www.youtube.com/watch?v=1uyGVtaOoZQ&list=PLi_s3ju2c37x5PEm1Jh_i2QQf08KVaoLB](../../img/2023/https://www.youtube.com/watch?v=1uyGVtaOoZQ&list=PLi_s3ju2c37x5PEm1Jh_i2QQf08KVaoLB)
 
-![Untitled](../../img/2023/4.%20Archive/write/review/자유도%20높았던%20게임%20이야기/lore_01.png)
+![Untitled](../../img/2023/lore_01.png)
 
 ![Untitled](../../img/2023/lore_02.png)
 
