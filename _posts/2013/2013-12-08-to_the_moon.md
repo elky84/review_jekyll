@@ -2,9 +2,9 @@
 layout: post
 title: To The Moon
 rating: ⭐️⭐️⭐️⭐️
-description: 스피드한데, 호쾌한데 그렇게 플레이하면 잘 죽지롱
-categories: [게임, 액션]
-tags: [PS2, 시노비, 세가]
+description: 쯔꾸르로 만든 게임의 정점
+categories: [스토리]
+tags: [스팀]
 ---
 
 ![To The Moon](../../img/2013/to_the_moon.png)
