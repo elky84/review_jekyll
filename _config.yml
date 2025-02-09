@@ -22,7 +22,7 @@ disqus:
   shortname: elky
 
 google_analytics: G-N76D2R0XPR
-baseurl: /review
+baseurl: /review_jekyll
 
 permalink: /:year/:title/
 paginate: 10
